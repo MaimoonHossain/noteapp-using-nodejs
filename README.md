@@ -1,4 +1,4 @@
-# noteapp-using-nodejs
+# NoteApp
 Created an app that allows us to perform crud on some notes that interacts with a file and takes advantage of some of the core modules like fs.
 
 
